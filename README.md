@@ -1,2 +1,3 @@
 # Gift_the_Animation
-Сделай арт(art); расскажи полезные факты(Facts); расскажи историю вместе с публикацией в телеграмм 
+Control+shift+m=
+ESC+tab information
